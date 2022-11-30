@@ -1,0 +1,57 @@
+[
+     {
+          "id": "asada",
+          "origen_x": 200,
+          "origen_y": 100,
+          "destino_x": 12,
+          "destino_y": 0,
+          "velocidad": 100,
+          "red": 155,
+          "green": 200,
+          "blue": 100
+     },
+     {
+          "id": "buche",
+          "origen_x": 150,
+          "origen_y": 100,
+          "destino_x": 80,
+          "destino_y": 90,
+          "velocidad": 105,
+          "red": 200,
+          "green": 100,
+          "blue": 50
+     },
+     {
+          "id": "lengua",
+          "origen_x": 350,
+          "origen_y": 100,
+          "destino_x": 15,
+          "destino_y": 100,
+          "velocidad": 60,
+          "red": 50,
+          "green": 100,
+          "blue": 200
+     },
+     {
+          "id": "pastor",
+          "origen_x": 450,
+          "origen_y": 240,
+          "destino_x": 165,
+          "destino_y": 307,
+          "velocidad": 180,
+          "red": 200,
+          "green": 130,
+          "blue": 100
+     },
+     {
+          "id": "carnitas",
+          "origen_x": 420,
+          "origen_y": 310,
+          "destino_x": 205,
+          "destino_y": 115,
+          "velocidad": 260,
+          "red": 100,
+          "green": 200,
+          "blue": 230
+     }
+]
